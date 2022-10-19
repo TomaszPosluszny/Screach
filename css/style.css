@@ -10,7 +10,7 @@ body {
     align-items: center;
     min-height: 100vh;
     font-family: 'Montserrat', sans-serif;
-    background-color: rgb(233, 233, 233);
+    background-color: white;
 }
 
 .wrapper {
@@ -28,7 +28,7 @@ body {
     height: 360px;
     padding: 20px 40px;
     font-family: 'Dancing Script', cursive;
-    background-image: url('https://cdn.pixabay.com/photo/2018/06/03/14/32/whisky-3450670_960_720.jpg');
+    background-image: url('https://images.pexels.com/photos/1567355/pexels-photo-1567355.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
     background-size: cover;
     background-position: center;
     z-index: 0;
@@ -59,7 +59,7 @@ h1 {
     background-color: rgba(255,255,255,.85);
 }
 
-.drink-list {
+.air-list {
     padding: 20px 40px;
 }
 
