@@ -16,4 +16,4 @@ Application searches list of air conditioning companies.
 
 ## Setup
 
-[Link to the page](https://tomaszposluszny.github.io/Search/)
+[Link to the page](https://tomaszposluszny.github.io/search-JS/)
